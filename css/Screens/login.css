@@ -1,6 +1,7 @@
 @import "Components/status-bar.css";
 @import "reset.css";
 @import "variables.css";
+
 .welcome-header{
     margin: 90px 0px;
     display: flex;
