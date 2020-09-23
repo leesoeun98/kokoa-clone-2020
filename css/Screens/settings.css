@@ -5,10 +5,15 @@
   display: flex;
   align-items: center;
   justify-content: left;
+  justify-content: space-between;
 }
 
 .settings__setting i {
   margin-right: 20px;
   font-size: 22px;
+  opacity: 0.8;
+}
+
+.settings__setting-column {
   opacity: 0.8;
 }
